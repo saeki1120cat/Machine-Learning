@@ -1,5 +1,7 @@
 # Machine-Learning
 
+## Employee_Attrition_And_Factors
+In this task, I want to explore relationships between variables, identify factors that contribute to attrition, and build a predictive model using data analysis, statistical tests, basic machine learning algorithms. The goal is to accurately identify employees likely to leave and gain insights into factors affecting satisfaction and retention.
 ## House_Prices:
 In this task, I want to compare the predictive power of various machine learning models for house prices. Specifically, we want to compare KNN, Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regression, and Support Vector Regression. I will use a dataset of house prices that includes various features such as square footage, number of bedrooms, and location.
 ## Recipe_Grouping:
